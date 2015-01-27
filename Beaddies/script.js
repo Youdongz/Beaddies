@@ -1,0 +1,3 @@
+document.getElementById("foot01").innerHTML = "<p>&copy; " + new Date().getFullYear() + " Beaddies. All rights reserved." + "</p>";
+
+document.getElementById("nav01").innerHTML = "<ul id= 'menu'>" + "<li><a href= 'home.html'>Home</a></li>" + "<li><a href= 'basket.html'>My Basket</a></li>" + "<li><a href= 'shop.html'>Shop</a></li>" + "<li><a href= 'latest.html'>Latest Designs</a></li>" + "<li><a href= 'customize.html'>Customized Products</a></li>" + "<li><a href= 'about.html'>About Us</a></li>" + "</ul>";
